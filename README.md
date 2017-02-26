@@ -1,5 +1,5 @@
-# Build_Scripts
-Scripts I use when building Android ROMs
+# LazyScripts
+Scripts I use when I'm too lazy to run the commands myself
 
 ***I will not provide support for these unless otherwise stated below!***
 
